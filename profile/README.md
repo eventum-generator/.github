@@ -1,3 +1,3 @@
-## Welcome to Eventum project! 👋
+## Welcome! 👋
 
 Website: https://eventum-project.github.io/website/
