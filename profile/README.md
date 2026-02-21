@@ -12,10 +12,7 @@
 
 ### Resources
 
-- 📖 [Documentation](https://eventum.run)
-- 🎓 [Tutorials](https://eventum.run/docs/tutorials)
-- 🔌 [API Reference](https://eventum.run/docs/api)
-- 📋 [Changelog](https://eventum.run/docs/changelog)
-- 📦 [PyPI](https://pypi.org/project/eventum-generator)
-- 🐳 [Docker Hub](https://hub.docker.com/r/rnv812/eventum-generator)
-- ⚖️ [License (Apache 2.0)](https://github.com/eventum-generator/eventum/blob/master/LICENSE)
+📖 [Documentation](https://eventum.run) · 📦 [PyPI](https://pypi.org/project/eventum-generator)
+🎓 [Tutorials](https://eventum.run/docs/tutorials) · 🐳 [Docker Hub](https://hub.docker.com/r/rnv812/eventum-generator)
+🔌 [API Reference](https://eventum.run/docs/api) · ⚖️ [License (Apache 2.0)](https://github.com/eventum-generator/eventum/blob/master/LICENSE)
+📋 [Changelog](https://eventum.run/docs/changelog)
