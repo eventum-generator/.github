@@ -2,17 +2,19 @@
   <img src="https://raw.githubusercontent.com/eventum-generator/eventum/master/static/logo.svg" alt="Eventum" width="120" />
 </p>
 
-<h3 align="center">Data generation platform</h3>
+<h3 align="center"><strong>Eventum</strong></h3>
+<h4 align="center">Data generation platform</h4>
 
 <p align="center">
-  <a href="https://pypi.org/project/eventum-generator"><img src="https://img.shields.io/pypi/v/eventum-generator?color=8282ef" alt="PyPI" /></a>
-  <a href="https://hub.docker.com/r/rnv812/eventum-generator"><img src="https://img.shields.io/docker/v/rnv812/eventum-generator?label=docker&color=8282ef" alt="Docker" /></a>
-  <a href="https://github.com/eventum-generator/eventum/blob/master/LICENSE"><img src="https://img.shields.io/github/license/eventum-generator/eventum?color=8282ef" alt="License" /></a>
+  <a href="https://eventum.run"><strong>📖 Documentation</strong></a> &nbsp;·&nbsp;
+  <a href="https://eventum.run/docs/tutorials"><strong>🎓 Tutorials</strong></a> &nbsp;·&nbsp;
+  <a href="https://eventum.run/docs/api"><strong>🔌 API Reference</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/eventum-generator/eventum/blob/master/CHANGELOG.md"><strong>📋 Changelog</strong></a> &nbsp;·&nbsp;
+  <a href="https://github.com/orgs/eventum-generator/projects/4"><strong>📅 Task tracker</strong></a>  &nbsp;·&nbsp;
+  <a href="https://github.com/orgs/eventum-generator/discussions"><strong>💬 Discuss</strong></a>
 </p>
 
-### Resources
-
-📖 [Documentation](https://eventum.run) · 📦 [PyPI](https://pypi.org/project/eventum-generator)
-🎓 [Tutorials](https://eventum.run/docs/tutorials) · 🐳 [Docker Hub](https://hub.docker.com/r/rnv812/eventum-generator)
-🔌 [API Reference](https://eventum.run/docs/api) · ⚖️ [License (Apache 2.0)](https://github.com/eventum-generator/eventum/blob/master/LICENSE)
-📋 [Changelog](https://github.com/eventum-generator/eventum/blob/master/CHANGELOG.md)
+<p align="center">
+  <a href="https://pypi.org/project/eventum-generator"><strong>📦 PyPI</strong></a> &nbsp;·&nbsp;
+  <a href="https://hub.docker.com/r/rnv812/eventum-generator"><strong>🐳 Docker Hub</strong></a>
+</p>
